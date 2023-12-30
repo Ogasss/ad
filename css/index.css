@@ -52,7 +52,8 @@ html .warrap .content {
   background-position: 0 0 , 100% 0 ;
   background-size: 37px;
   background-repeat: no-repeat;
-  width: 100%;
+  width: 96%;
+  margin: 0 auto;
   padding: 20px;
   border-radius: 8px;
   border: 1px solid #fb6765;
